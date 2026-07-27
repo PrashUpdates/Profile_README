@@ -39,7 +39,4 @@ Passionate about building modern websites, learning new technologies, and creati
 
 <!-- ## 🪼 Activity -->
 
-> Building modern web experiences with clean code, responsive design, and continuous learning while working toward becoming a skilled Full-Stack Web Developer.
 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=PrashUpdates&theme=tokyonight&hide_border=true)
