@@ -42,4 +42,4 @@ Passionate about building modern websites, learning new technologies, and creati
 > Building modern web experiences with clean code, responsive design, and continuous learning while working toward becoming a skilled Full-Stack Web Developer.
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrashUpdates&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=PrashUpdates&theme=tokyonight&hide_border=true)
