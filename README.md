@@ -39,4 +39,6 @@ Passionate about building modern websites, learning new technologies, and creati
 
 <!-- ## 🪼 Activity -->
 
+![GitSkins Glass Profile](https://www.gitskins.com/api/premium-card?username=octocat&theme=github-dark&variant=glass&avatar=github)
+
 
