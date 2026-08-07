@@ -39,6 +39,6 @@ Passionate about building modern websites, learning new technologies, and creati
 
 <!-- ## 🪼 Activity -->
 
-![GitSkins Glass Profile](https://www.gitskins.com/api/premium-card? Prashupdates=octocat&theme=github-dark&variant=glass&avatar=github)
+![GitSkins Glass Profile](https://www.gitskins.com/api/premium-card? PrashUpdates=octocat&theme=github-dark&variant=glass&avatar=github)
 
 
